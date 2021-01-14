@@ -7,12 +7,12 @@ main {
 	margin: 0 auto;
 }
 p{
-font-size: xx-large;
+font-size: 3em;
 }
 	h1 {
 	color: firebrick;
 	text-transform: capitalize;
-	font-size: 4em;
+	font-size: 7em;
 	font-weight: 900;
 	}
 
